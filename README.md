@@ -3,7 +3,7 @@ Project 4 for systemC and Opencv implementation of Image analysis. This project 
 
 ## **Explanation of Files**
 - Task One
-  - Test.cpp file tests the systemC library whil the OpenCV.cpp file tests the OpenCV library. This confirms the proper environement set up for systemC and OpenCV.
+  - Test.cpp file tests the systemC library whil the OpenCV_test.cpp file tests the OpenCV library. This confirms the proper environement set up for systemC and OpenCV.
 - Task Two
   - edge_McDaniel.cpp provides the code that finds the edges of the provided test.jpg image (coins).
   - output is displayed in the file titles "outImage_McDaniel.jpg"
