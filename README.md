@@ -7,7 +7,7 @@ Project 4 for systemC and Opencv implementation of Image analysis. This project 
 - Task Two
   - edge_McDaniel.cpp provides the code that finds the edges of the provided test.jpg image (coins).
   - output is displayed in the file titles "outImage_McDaniel.jpg"
--Task Three
+- Task Three
   - Memory.cpp, Processor1, Processor2, and Top.cpp are the files that complete task 3 to which an image is stored in processor1, loaded to memory, and then processor2 reads the memory file and completes the required algorithms and functions to complete the lines detection
   - the output file is stored in the file titled "final_output.jpg"
 
